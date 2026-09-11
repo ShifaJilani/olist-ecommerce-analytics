@@ -207,7 +207,7 @@ This project is designed to demonstrate practical experience with:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 The repository will evolve as each stage of the project is completed.
 
@@ -216,29 +216,26 @@ olist-ecommerce-analytics/
 │
 ├── README.md
 │
-├── 01_data/
-│   └── data_dictionary.md
+|
+├── 01_funnel_analysis/
+│   ├── data_discovery.md
+│   └── funnel_analysis.md
 │
-├── 02_data_quality/
-│   └── ...
+|
+├── 02_revenue_drop_diagnostic/
+│   └── data_discovery.md
 │
-├── 03_data_transformation/
-│   └── ...
+|
+├── 03_churn_clv/
+│   └── data_discovery.md
 │
-├── 04_sql/
-│   ├── 01_funnel_analysis/
-│   ├── 02_revenue_diagnostic/
-│   ├── 03_churn_clv/
-│   └── 04_pricing/
+|
+├── 04_pricing_capstone/
+│   └── data_discovery.md
 │
-├── 05_power_bi/
-│   └── ...
-│
-├── 06_business_recommendations/
-│   └── ...
-│
-└── documentation/
-    └── ...
+└── ...
+
+
 ```
 
 ---
