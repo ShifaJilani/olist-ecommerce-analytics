@@ -18,7 +18,7 @@ The objective of this project is to investigate different aspects of the busines
 
 # 📌 Project Roadmap
 
-### 1. Funnel Analysis
+### 1. [Funnel Analysis](./01_funnel_analysis/)
 
 **Business Question:** Where are Marketing Qualified Leads dropping off before becoming closed deals, and which acquisition sources and landing pages represent the largest opportunities for improvement?
 
@@ -34,7 +34,8 @@ The objective of this project is to investigate different aspects of the busines
 
 ---
 
-### 2. Revenue Drop Diagnostic
+### 2. [Revenue Drop Diagnostic](./02_revenue_drop_diagnostic/)
+
 
 **Business Question:**
 Revenue has declined. Is this a genuine business problem or could the decline be caused by data quality or reporting issues?
@@ -55,7 +56,7 @@ The objective is not simply to identify that revenue changed, but to determine *
 
 ---
 
-### 3. Churn & Customer Lifetime Value
+### 3. [Churn & Customer Lifetime Value](./03_churn_clv/)
 
 **Business Question:**
 Which customers are being lost, how should churn be defined for this business, and what is the financial impact of customer loss?
@@ -75,7 +76,7 @@ The churn definition will be explicitly justified rather than relying on a prede
 
 ---
 
-### 4. Pricing Capstone
+### 4. [Pricing Capstone](./04_pricing_capstone/) 
 
 **Business Question:**
 Is Olist potentially underpricing products or categories, and where might pricing changes create additional revenue opportunities?
