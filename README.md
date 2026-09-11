@@ -20,18 +20,17 @@ The objective of this project is to investigate different aspects of the busines
 
 ### 1. Funnel Analysis
 
-**Business Question:**
-Where are customers dropping off before completing a purchase, and which parts of the funnel represent the largest opportunities for improvement?
+**Business Question:** Where are Marketing Qualified Leads dropping off before becoming closed deals, and which acquisition sources and landing pages represent the largest opportunities for improvement?
 
 **Focus areas:**
 
-* Marketing funnel analysis
-* Customer conversion
-* Funnel stage drop-off
-* Conversion rates
-* Segmentation
-* SQL analysis
-* Joining marketing and transactional data
+- Marketing funnel analysis
+- MQL-to-closed-deal conversion
+- Funnel drop-off
+- Conversion rates
+- Acquisition source and landing-page segmentation
+- SQL analysis
+- Joining MQL and closed-deal data
 
 ---
 
