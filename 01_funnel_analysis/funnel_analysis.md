@@ -57,6 +57,15 @@ The MQL table was treated as the starting point of the funnel. A closed deal was
 
 A validation check confirmed that all 842 closed deals had a matching MQL record and that `mql_id` was unique in both tables.
 
+## 3.1 Initial Data Checks
+
+Before loading the data into Microsoft Fabric, an initial review was carried out in Excel to check the structure and quality of the source data.
+
+The checks included reviewing column names and data types, checking row counts, identifying missing values and duplicates, and looking for any obvious data inconsistencies.
+
+After these initial checks, the data was moved to Microsoft Fabric, where the main data validation, SQL analysis, funnel calculations, and analysis were carried out.
+
+
 ## 4. Funnel Overview
 
 The funnel starts with 8,000 Marketing Qualified Leads (MQLs).
